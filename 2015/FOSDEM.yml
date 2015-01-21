@@ -562,7 +562,7 @@ talks:
     project over the last year, and what to expect over the next year.
 
 - title: 'Retooling Fedora: a retrospective on Fedora 21'
-  speaker: Stephen Gallagher, Matthew Miller
+  speaker: Matthew Miller
   start: 2015-02-01 12:30 CET
   end: 2015-02-01 13:20 CET
   room: H.1302 (Depage)
@@ -574,7 +574,7 @@ talks:
     model, the reasons behind it and the challenges (both technical and
     social) that we faced in shipping Fedora 21.
 
-    The session will be broken into approximately 25-30 minutes of lecture
+    The session will be broken into approximately 20-25 minutes of lecture
     lightly covering a variety of topics including release-engineering, new
     feature development and socialization of ideas.
 
